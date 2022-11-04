@@ -114,242 +114,318 @@ dhcpoptinj	123.58a12c6
 DHCP option injector.	
 https://github.com/misje/dhcpoptinj
 
+
 dinouml	0.9.5	
 A network simulation tool, based on UML (User Mode Linux) that can simulate big Linux networks on a single PC	
+https://en.kali.tools/all/?tool=322
+
 
 dnsdiag	271.edb168f	
 DNS Diagnostics and Performance Measurement Tools.	
+https://dnsdiag.org/
+
 
 dnsfilexfer	24.126edcd	
 File transfer via DNS.	
+https://github.com/leonjza/dnsfilexfer
+
 
 dnsobserver	5.f331482	
 A handy DNS service written in Go to aid in the detection of several types of blind vulnerabilities.	
+https://github.com/allyomalley/dnsobserver
 
 
 dnsteal	28.1b09d21	
 DNS Exfiltration tool for stealthily sending files over DNS requests..	
-
+https://github.com/m57/dnsteal
 
 dnsvalidator	67.b12acc0	
 Maintains a list of IPv4 DNS servers by verifying them against baseline servers, and ensuring accurate responses.	
-
+https://github.com/vortexau/dnsvalidator
 
 dripcap	0.6.15	
 Caffeinated Packet Analyzer.	
+https://en.kali.tools/all/?tool=369
 
 
 dtp-spoof	5.3ae05fc	
 Python script/security tool to test Dynamic Trunking Protocol configuration on a switch.	
+https://github.com/fleetcaptain/dtp-spoof
 
 
 dublin-traceroute	332.16c002c	
 NAT-aware multipath tracerouting tool.	
+https://github.com/insomniacslk/dublin-traceroute
 
 
 dump1090	386.bff92c4	
 A simple Mode S decoder for RTLSDR devices.	
+https://github.com/MalcolmRobb/dump1090
 
 
 etherape	0.9.20	
 Graphical network monitor for various OSI layers and protocols	
+https://etherape.sourceforge.io/
 
 
 evillimiter	36.46d2033	
 Tool that limits bandwidth of devices on the same network without access.	
+https://github.com/bitbrute/evillimiter
 
 
 exabgp	4961.ba5c0506	
 The BGP swiss army knife of networking.	
+https://github.com/Exa-Networks/exabgp
 
 
 filibuster	167.c54ac80	
 A Egress filter mapping application with additional functionality.	
+https://github.com/subinacls/Filibuster
 
 
 firecat	6.b5205c8	
 A penetration testing tool that allows you to punch reverse TCP tunnels out of a compromised network.	
+https://github.com/BishopFox/firecat
 
 
 flowinspect	97.34759ed	
 A network traffic inspection tool.	
+https://github.com/7h3rAm/flowinspect
 
 
 fping	5.1	
 Utility to ping multiple hosts at once	
+https://www.fping.org/
+
 
 freeipmi	1.6.10	
 IPMI remote console and system management software
+https://www.gnu.org/software/freeipmi/
+
 
 geoip	1.6.12	
 Non-DNS IP-to-country resolver C library & utils
+https://dev.maxmind.com/geoip/release-notes/2022#geoip-legacy-databases-have-been-retired?lang=en
+
 
 girsh	v0.40.r2.g0fa6870	
 Automatically spawn a reverse shell fully interactive for Linux or Windows victim.	
+https://github.com/nodauf/Girsh
+
 
 gsocket	1.4.38	
-Global Socket moving data from here to there securely, fast and trough NAT/Firewalls	
+Global Socket moving data from here to there securely, fast and trough NAT/Firewalls
+https://www.gsocket.io/
+
 
 gspoof	3.2	
 A simple GTK/command line TCP/IP packet generator.	
+https://gspoof.sourceforge.net/
+
 
 gwcheck	0.1	
 A simple program that checks if a host in an ethernet network is a gateway to Internet.	
+https://packetstormsecurity.com/files/62047/gwcheck.c.html
+
 
 haka	0.2.2	
 A collection of tool that allows capturing TCP/IP packets and filtering them based on Lua policy files.	
+https://github.com/haka-security/haka
+
 
 hharp	1beta	
 This tool can perform man-in-the-middle and switch flooding attacks. It has 4 major functions, 3 of which attempt to man-in-the-middle one or more computers on a network with a passive method or flood type method.	
+https://packetstormsecurity.com/files/81368/Hackers-Hideaway-ARP-Attack-Tool.html
+
 
 hping	3.0.0	
 A command-line oriented TCP/IP packet assembler/analyzer.	
+http://www.hping.org/
 
 
 http-traceroute	0.5	
 This is a python script that uses the Max-Forwards header in HTTP and SIP to perform a traceroute-like scanning functionality.	
+https://packetstormsecurity.com/files/107167/Traceroute-Like-HTTP-Scanner.html
 
 
 httping	2.5	
 A ping-like tool for http-requests	
+https://www.vanheusden.com/httping/
 
 
 hyde	11.ec09462	
 Just another tool in C to do DDoS (with spoofing).	
+https://github.com/CoolerVoid/Hyde
 
 
 hyenae	0.36_1	
-Flexible platform independent packet generator.	
+Flexible platform independent packet generator.
+https://sourceforge.net/projects/hyenae/
 
 
 hyperfox	121.1a8c26f	
 A security tool for proxying and recording HTTP and HTTPs traffic.	
+https://github.com/malfunkt/hyperfox
 
 
 i2pd	2.43.0	
 A full-featured C++ implementation of the I2P router	
+https://i2pd.website/
 
 
 impacket	0.9.24	
 Collection of classes for working with network protocols	
+https://github.com/SecureAuthCorp/impacket
+
 
 infection-monkey	v1.13.0.r4344.gdbaa56c39	
 Automated security testing tool for networks.	
+https://github.com/guardicore/monkey
 
 
 interlace	342.97ee21e	
 Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.	
+https://github.com/codingo/Interlace/releases
 
 
 ipaudit	1.1	
 Monitors network activity on a network.	
+https://ipaudit.sourceforge.net/
 
 
 ipdecap	96.45d2a7d	
 Can decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, and can also remove IEEE 802.1Q (virtual lan) header.	
+https://en.kali.tools/all/?tool=666
 
 
 ipmitool	1.8.19	
-Command-line interface to IPMI-enabled devices	
+Command-line interface to IPMI-enabled devices
+https://github.com/ipmitool/ipmitool
 
 
 iputils	20211215	
 Network monitoring tools, including ping	
+http://www.skbuff.net/iputils/
 
 
 ipv4bypass	21.99bb285	
 Using IPv6 to Bypass Security.	
+https://github.com/milo2012/ipv4Bypass
 
 
 jnetmap	0.5.5	
 A network monitor of sorts.	
+https://sourceforge.net/projects/jnetmap/files/
 
 
 kickthemout	212.861aea2	
 Kick devices off your network by performing an ARP Spoof attack.
+https://github.com/k4m4/kickthemout
 
 
 latd	1.31	
 A LAT terminal daemon for Linux and BSD.	
+https://sourceforge.net/projects/linux-decnet/files/latd/1.31/
 
 
 libparistraceroute	378.6fb8f48	
 A library written in C dedicated to active network measurements with examples, such as paris-ping and paris-traceroute.	
+https://github.com/libparistraceroute/libparistraceroute
 
 
 libtins	1288.eb997f5	
 High-level, multiplatform C++ network packet sniffing and crafting library.	
+https://github.com/mfontanini/libtins
 
 
 loic	2.9.9.99	
 An open source network stress tool for Windows.	
+https://github.com/NewEraCracker/LOIC
 
 
 macchanger	1.7.0	
 A small utility to change your NIC's MAC address	
+https://github.com/alobbs/macchanger
 
 
-maclookup	0.4	
+maclookup	0.4
 Lookup MAC addresses in the IEEE MA-L/OUI public listing.	
+https://dnschecker.org/mac-lookup.php
 
 
 maketh	0.2.0	
 A packet generator that supports forging ARP, IP, TCP, UDP, ICMP and the ethernet header as well.	
+https://packetstormsecurity.com/files/83892/Maketh-Packet-Generator.2.0.html
 
 
 malcom	708.02e55b9	
 Analyze a system's network communication using graphical representations of network traffic.	
+https://github.com/tomchop/malcom
 
 
 massdns	275.2cee317	
 A high-performance DNS stub resolver in C.	
+https://github.com/blechschmidt/massdns
 
 
 middler	1.0	
 A Man in the Middle tool to demonstrate protocol middling attacks.	
+https://en.kali.tools/all/?tool=825
 
 
 mitm	8.bd2b351	
 A simple yet effective python3 script to perform DNS spoofing via ARP poisoning.	
+https://github.com/blackeko/mitm
 
 
 moloch	0.11.3	
 An open source large scale IPv4 full PCAP capturing, indexing and database system.	
+https://github.com/hadojae/moloch
+
 
 mptcp	1.9.0	
 A tool for manipulation of raw packets that allows a large number of options.	
+https://packetstormsecurity.com/files/119132/Mptcp-Packet-Manipulator.9.0.html
 
 
 mptcp-abuse	6.b0eeb27	
 A collection of tools and resources to explore MPTCP on your network. Initially released at Black Hat USA 2014.	
+https://github.com/CiscoCXSecurity/mptcp-abuse
 
 
 mtr	0.95	
 Combines the functionality of traceroute and ping into one tool (CLI version)	
+https://www.bitwizard.nl/mtr/
 
 
 mylg	
 659.faba867	Network Diagnostic Tool.
+https://github.com/mehrdadrad/mylg
 
 
 nacker	23.b67bb39	
 A tool to circumvent 802.1x Network Access Control on a wired LAN.	
+https://github.com/carmaa/nacker
 
 
 nbtool	2.bf90c76	
 Some tools for NetBIOS and DNS investigation, attacks, and communication.	
+https://github.com/g2nb/nbtools
 
 
 ncpfs	2.2.6	
 Allows you to mount volumes of NetWare servers under Linux.	
+https://linux.softpedia.com/get/System/Filesystems/ncpfs-1464.shtml
 
 
 nemesis	329.b1d398c
 A command-line network packet crafting and injection utility.	
+https://github.com/libnet/nemesis
 
 
 netactview	0.6.4	
 A graphical network connections viewer similar in functionality to netstat.	
+
 
 
 netcon	0.1	
