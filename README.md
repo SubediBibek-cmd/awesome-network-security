@@ -425,70 +425,87 @@ https://github.com/libnet/nemesis
 
 netactview	0.6.4	
 A graphical network connections viewer similar in functionality to netstat.	
-
+https://netactview.sourceforge.net/index.html
 
 
 netcon	0.1	
 A network connection establishment and management script.	
+https://en.kali.tools/all/?tool=896
 
 
 netmap	0.1.3	
 Can be used to make a graphical representation of the surrounding network.	
+https://en.kali.tools/all/?tool=898
 
 
 netreconn	1.78	
 A collection of network scan/recon tools that are relatively small compared to their larger cousins.	
+https://packetstormsecurity.com/files/86076/NetReconn-Scanning-Tool-Collection.76.html
 
 
 netsed	1.3	
 Small and handful utility design to alter the contents of packets forwarded thru network in real time.	
+https://en.kali.tools/all/?tool=903
 
 
 networkmap	58.f5faf17	
 Post-exploitation network mapper.	
+https://github.com/lorenzog/NetworkMap
+
 
 nextnet	3.c8dc7a6	
 Pivot point discovery tool.	
+https://github.com/hdm/nextnet
 
 
 nfdump	1.6.23	
 A set of tools to collect and process netflow data.	
+https://github.com/phaag/nfdump
 
 
 ngrep	1.47	
 A grep-like utility that allows you to search for network packets on an interface.	
+https://github.com/jpr5/ngrep/
 
 
 nield	38.0c0848d	
 A tool to receive notifications from kernel through netlink socket, and generate logs related to interfaces, neighbor cache(ARP,NDP), IP address(IPv4,IPv6), routing, FIB rules, traffic control.	
+https://en.kali.tools/all/?tool=915
 
 
 nipper	0.11.7	
 Network Infrastructure Parser	
+https://packetstormsecurity.com/files/66253/nipper-0.11.7.zip.html
 
 
 nsdtool	0.1	
 A netgear switch discovery tool. It contains some extra features like bruteoforce and setting a new password.	
+https://curesec.com/en/publications/tools.html
 
 
 nsoq	1.9.5	
 A Network Security Tool for packet manipulation that allows a large number of options.	
+http://www.nsoq.org/
 
 
 packet-o-matic	351	
 A real time packet processor. Reads the packet from an input module, match the packet using rules and connection tracking information and then send it to a target module.	
+https://www.packet-o-matic.org/
 
 
 packeth	2.1	
 Linux GUI packet generator tool for ethernet	
+https://packeth.sourceforge.net/
 
 
 packetq	278.a4c5f14	
 A tool that provides a basic SQL-frontend to PCAP-files.	
+https://packeth.sourceforge.net/packeth/Home.html
 
 
 packetsender	770.c907ae8	
 An open source utility to allow sending and receiving TCP and UDP packets.	
+
 
 
 packit	1.0	
