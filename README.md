@@ -4,116 +4,114 @@ A collection of awesome resources, tools, and other shiny things for Network Sec
 # Certifications
 
 ## SANS Certifications,
-> GIAC Penetration Tester (GPEN) SEC560: Enterprise Penetration Testing
-> GIAC Security Essentials (GSEC) SEC401: Security Essentials - Network, Endpoint, and Cloud
-> GIAC Certified Intrusion Analyst (GCIA) SEC503: Network Monitoring and Threat Detection In-Depth
-> GIAC Network Forensic Analyst (GNFA) FOR572: Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response
-> GIAC Systems and Network Auditor (GSNA) AUD507: Auditing & Monitoring Networks, Perimeters & Systems
-> SEC580: Metasploit for Enterprise Penetration Testing
+- GIAC Penetration Tester (GPEN) SEC560: Enterprise Penetration Testing
+- GIAC Security Essentials (GSEC) SEC401: Security Essentials - Network, Endpoint, and Cloud
+- GIAC Certified Intrusion Analyst (GCIA) SEC503: Network Monitoring and Threat Detection In-Depth
+- GIAC Network Forensic Analyst (GNFA) FOR572: Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response
+- GIAC Systems and Network Auditor (GSNA) AUD507: Auditing & Monitoring Networks, Perimeters & Systems
+- SEC580: Metasploit for Enterprise Penetration Testing
 
 ## TCM Security,
-Practical Network Penetration Tester
+- Practical Network Penetration Tester
 
 ## Cisco Certifications,
-CCNP Security	350-701 SCOR	Implementing and Operating Cisco Security Core Technologies (SCOR)
-CCNP Security	300-710 SNCF	Securing Networks with Cisco Firepower (SNCF)
-CCNP Security	300-715 SISE	Implementing and Configuring Cisco Identity Services Engine (SISE)
-CyberOps Professional	300-215 CBRFIR	Conducting Forensic Analysis and Incident Response Using Cisco Technologies for CyberOps (CBRFIR)
-CyberOps    CyberOps Professional 350-201 CBRCOR Performing CyberOps Using Cisco Security Technologies (CBRCOR)
-CyberOps    CyberOps Associate 200-201 CBROPS Threat Hunting and Defending using Cisco Technologies for CyberOps (CBROPS)
-CyberOps    CyberOps Professional 300-220 CBRTHD Conducting Threat Hunting and Defending using Cisco Technologies for CyberOps (CBRTHD)
-
+- CCNP Security	350-701 SCOR	Implementing and Operating Cisco Security Core Technologies (SCOR)
+- CCNP Security	300-710 SNCF	Securing Networks with Cisco Firepower (SNCF)
+- CCNP Security	300-715 SISE	Implementing and Configuring Cisco Identity Services Engine (SISE)
+- CyberOps Professional	300-215 CBRFIR	Conducting Forensic Analysis and Incident Response Using Cisco Technologies for CyberOps (CBRFIR)
+- CyberOps    CyberOps Professional 350-201 CBRCOR Performing CyberOps Using Cisco Security Technologies (CBRCOR)
+- CyberOps    CyberOps Associate 200-201 CBROPS Threat Hunting and Defending using Cisco Technologies for CyberOps (CBROPS)
+- CyberOps    CyberOps Professional 300-220 CBRTHD Conducting Threat Hunting and Defending using Cisco Technologies for CyberOps (CBRTHD)
 
 ## Palo Alto Certifications,
-Palo Alto Networks Certified Cybersecurity Entry-level Technician
-Palo Alto Networks Certified Network Security Administrator
-Palo Alto Networks Certified Network Security Engineer
-Palo Alto Networks Certified Security Automation Engineer
-Palo Alto Networks Certified Detection and Remediation Analyst
-
+- Palo Alto Networks Certified Cybersecurity Entry-level Technician
+- Palo Alto Networks Certified Network Security Administrator
+- Palo Alto Networks Certified Network Security Engineer
+- Palo Alto Networks Certified Security Automation Engineer
+- Palo Alto Networks Certified Detection and Remediation Analyst
 
 ## Checkpoint Certification,
-Check Point Certified Security Administrator
-Check Point Certified Security Expert
+- Check Point Certified Security Administrator
+- Check Point Certified Security Expert
 
 ## Network Monitoring Certifications
 
 ## Logrythm
-LogRhythm Platform Administration (LRPA) Certification
-LogRhythm Security Analyst (LRSA) Certification
-LogRhythm Advanced Product Training
-LogRhythm Cloud Administration (LRCA) Certification
+- LogRhythm Platform Administration (LRPA) Certification
+- LogRhythm Security Analyst (LRSA) Certification
+- LogRhythm Advanced Product Training
+- LogRhythm Cloud Administration (LRCA) Certification
 
 ## Splunk,
-Splunk Core Certified User
-Splunk Core Certified Power User
-Splunk Core Certified Advanced Power User
-Splunk Cloud Certified Admin
-Splunk Enterprise Certified Admin
-Splunk Enterprise Certified Architect
-Splunk Core Certified Consultant
-Splunk Certified Developer
-Splunk Enterprise Security Certified Admin
-Splunk IT Service Intelligence Certified Admin
-Splunk SOAR Certified Automation Developer
+- Splunk Core Certified User
+- Splunk Core Certified Power User
+- Splunk Core Certified Advanced Power User
+- Splunk Cloud Certified Admin
+- Splunk Enterprise Certified Admin
+- Splunk Enterprise Certified Architect
+- Splunk Core Certified Consultant
+- Splunk Certified Developer
+- Splunk Enterprise Security Certified Admin
+- Splunk IT Service Intelligence Certified Admin
+- Splunk SOAR Certified Automation Developer
 
 ## IBM QRadar,
-IBM Certified SOC Analyst - IBM QRadar SIEM V7.3.2
+- IBM Certified SOC Analyst - IBM QRadar SIEM V7.3.2
 
 ## Microsoft,
-Microsoft Certified: Security Operations Analyst Associate
-Microsoft Sentinel Ninja: The complete level 400 training
+- Microsoft Certified: Security Operations Analyst Associate
+- Microsoft Sentinel Ninja: The complete level 400 training
 
 ## EC Council,
-Certified Network Defender
-Network Defense Essentials
-Certified SoC Analyst
-Certified Incident Handler
-Certified Digital Forensics
-Certified Threat Hunter
+- Certified Network Defender
+- Network Defense Essentials
+- Certified SoC Analyst
+- Certified Incident Handler
+- Certified Digital Forensics
+- Certified Threat Hunter
 
 ## Comptia,
-Comptia CYSA+
-Comptia Pentest+
-Comptia CASP+
+- Comptia CYSA+
+- Comptia Pentest+
+- Comptia CASP+
 
 ## Offensive Security,
-Offensive Security Wireless Professional	
+- Offensive Security Wireless Professional	
 
 ## Elearn Security,
-eLearnSecurity Network Defense Professional
-eLearnSecurity Certified Digital Forensics Professional
-eLearnSecurity Certified Threat Hunting Professional
+- eLearnSecurity Network Defense Professional
+- eLearnSecurity Certified Digital Forensics Professional
+- eLearnSecurity Certified Threat Hunting Professional
 
 ## CREST,
-CREST Certified Network Intrusion Analyst	
-CREST Certified Host Intrusion Analyst
-CREST Practitioner Intrusion Analyst
-CREST Registered Intrusion Analyst
+- CREST Certified Network Intrusion Analyst	
+- CREST Certified Host Intrusion Analyst
+- CREST Practitioner Intrusion Analyst
+- CREST Registered Intrusion Analyst
 
 ## Pentester Academy,
-Pentesting with Metasploit
-Wi-Fi Security and Pentesting
-Windows System Programming: Fundamentals
-Airodump-NG Scan Visualizer
-Network Pentesting
-VoIP Traffic Analysis
-Windows Red Team Lab
-Windows System Programming: Processes and Threads
-Windows System Programming: Security
-Windows Kernel Programming: Processes and Threads Monitoring
-Windows Kernel Programming: Fundamentals
-Certified Red Team Professional
-Certified Read Team Expert
-Certified Azure AD Professional
+- Pentesting with Metasploit
+- Wi-Fi Security and Pentesting
+- Windows System Programming: Fundamentals
+- Airodump-NG Scan Visualizer
+- Network Pentesting
+- VoIP Traffic Analysis
+- Windows Red Team Lab
+- Windows System Programming: Processes and Threads
+- Windows System Programming: Security
+- Windows Kernel Programming: Processes and Threads Monitoring
+- Windows Kernel Programming: Fundamentals
+- Certified Red Team Professional
+- Certified Read Team Expert
+- Certified Azure AD Professional
 
 ## Huwei Certifications,
-Huawei HCIA-Security
+- Huawei HCIA-Security
 
 ## Juniper Certification,
-JNCIA-SEC Associate
-JNCIA-SEC Specialist
-JNCIA-SEC Professional
+- JNCIA-SEC Associate
+- JNCIA-SEC Specialist
+- JNCIA-SEC Professional
 
 #Tools
 
