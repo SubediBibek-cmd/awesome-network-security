@@ -505,257 +505,337 @@ https://packeth.sourceforge.net/packeth/Home.html
 
 packetsender	770.c907ae8	
 An open source utility to allow sending and receiving TCP and UDP packets.	
-
+https://github.com/dannagle/PacketSender
 
 
 packit	1.0	
 A network auditing tool. Its value is derived from its ability to customize, inject, monitor, and manipulate IP traffic.	
+http://packetfactory.openwall.net/projects/packit/index.html
 
 
 pcapfex	60.c51055a	
 Packet CAPture Forensic Evidence eXtractor.	
+https://github.com/vikwin/pcapfex
 
 
 pcapfix	1.1.7	
 Tries to repair your broken pcap and pcapng files.	
+https://f00l.de/pcapfix/
 
 
 phantap	63.e80be64	
 An 'invisible' network tap aimed at red teams.	
+https://github.com/nccgroup/phantap
 
 
 pivotsuite	19.9078d1e	
 A portable, platform independent and powerful network pivoting toolkit.	
+https://github.com/RedTeamOperations/PivotSuite
 
 
 pkt2flow	69.868a2e8	
 A simple utility to classify packets into flows.	
+https://github.com/caesar0301/pkt2flow
 
 
 pmacct	4281.db67590d	
 Small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP IGP Streaming Telemetry].	
+https://github.com/pmacct/pmacct
 
 
 prometheus-firewall	176.a316d66	
 A Firewall analyzer written in ruby	
+https://github.com/averagesecurityguy/prometheus
 
 
 pwnat	14.d3c2b05	
 A tool that allows any number of clients behind NATs to communicate with a server behind a separate NAT with *no* port forwarding and *no* DMZ setup on any routers in order to directly communicate with each other.	
+http://samy.pl/pwnat/
 
 
 pyersinia	49.73f4056	
 Network attack tool like yersinia but written in Python.	
+https://github.com/nottinghamprisateam/pyersinia
 
 
 pyexfil	81.2ef1b8c	
 A couple of beta stage tools for data exfiltration.	
+https://github.com/ytisf/PyExfil
 
 
 pyminifakedns	0.1	
 Minimal DNS server written in Python; it always replies with a 127.0.0.1 A-record.
+https://code.activestate.com/recipes/491264/
 
 
 python-cymruwhois	1.6	
 Python client for the whois.cymru.com service	
+https://pypi.org/project/cymruwhois/#files
 
 
 python2-cymruwhois	1.6	
 Python client for the whois.cymru.com service	
+https://pypi.org/project/cymruwhois/#files
 
 
 rinetd	0.62	
 internet redirection server	
+https://netbsd.pkgs.org/9/netbsd-amd64/rinetd-0.62nb3.tgz.html
+https://manpages.ubuntu.com/manpages/bionic/man8/rinetd.8.html
 
 
 rtpbreak	1.3a	
 Detects, reconstructs and analyzes any RTP session	
+https://www.kali.org/tools/rtpbreak/
 
 
 rustcat	v3.0.0.r1.g6e421b3	
 A modern port listener and reverse shell.	
+https://github.com/robiot/rustcat
 
 
 samplicator	175.ceeb1d2	
 Send copies of (UDP) datagrams to multiple receivers, with optional sampling and spoofing.	
+https://github.com/sleinen/samplicator
 
 
 scapy	2.4.5	
 Powerful interactive packet manipulation program written in Python (tools)	
+https://scapy.net/
 
 
 sdn-toolkit	1.21	
 Discover, Identify, and Manipulate SDN-Based Networks	
+https://sourceforge.net/projects/sdn-toolkit/
 
 
 sessionlist	6.3efc3b2	
 Sniffer that intents to sniff HTTP packets and attempts to reconstruct interesting authentication data from websites that do not employ proper secure cookie auth.	
 seth	100.80b3813	Perform a MitM attack and extract clear text credentials from RDP connections.
+https://0xrage.com/
+https://github.com/iamrage/sessionlist
 
 
 silk	3.19.2	
 A collection of traffic analysis tools developed by the CERT NetSA to facilitate security analysis of large networks.	
+https://github.com/SySS-Research/Seth
 
 
 skydive	0.28.0	
 An open source real-time network topology and protocols analyzer.	
+https://tools.netsa.cert.org/silk/download.html
 
 
 sniffer	4.688854e	
 Packet Trace Parser for TCP, SMTP Emails, and HTTP Cookies.	
+https://en.kali.tools/all/?tool=1865
 
 
 sniffles	469.118e93f	
 A Packet Capture Generator for IDS and Regular Expression Evaluation.
+https://github.com/petabi/sniffles
 
 
 snmpattack	1.8	
 SNMP scanner and attacking tool.	
+https://c0decafe.de/
+https://en.kali.tools/all/?tool=1294
 
 
 snmpcheck	1.9	
 A free open source utility to get information via SNMP protocols.	
+http://www.nothink.org/codes/snmpcheck/index.php
 
 
 socat	1.7.4.3	
 Multipurpose relay	
+http://www.dest-unreach.org/socat/
 
 
 sockstat	0.4.1	
 A tool to let you view information about open connections. It is similar to the tool of the same name that is included in FreeBSD, trying to faithfully reproduce as much functionality as is possible.
+https://packages.debian.org/unstable/main/sockstat
 
 
 spiped	1.6.2	
 Secure pipe daemon	
+http://www.tarsnap.com/spiped.html
 
 
 sps	4.3	
 A Linux packet crafting tool. Supports IPv4, IPv6 including extension headers, and tunneling IPv6 over IPv4.	
+https://sites.google.com/site/simplepacketsender/
 
 
 sslh	1.22.c	
 SSL/SSH/OpenVPN/XMPP/tinc port multiplexer	
+https://www.rutschle.net/tech/sslh/README.html
 
 
 stunnel	5.66	
 A program that allows you to encrypt arbitrary TCP connections inside SSL	
+https://www.stunnel.org/
 
 
 swaks	20201014.0	
 Swiss Army Knife SMTP; Command line SMTP testing, including TLS and AUTH	
+https://jetmore.org/john/code/swaks/
 
 
 tcpcopy	1243.2365b36	
 A TCP stream replay tool to support real testing of Internet server applications.	
+https://github.com/session-replay-tools/tcpcopy
 
 
 tcpdstat	4.be5bd28	
 Get protocol statistics from tcpdump pcap files.
+https://blackarch.org/networking.html
 
 
 tcpdump	4.99.1	
 Powerful command-line packet analyzer	
+https://www.tcpdump.org/
 
 
 tcpextract	1.1	
 Extracts files from captured TCP sessions. Support live streams and pcap files.	
+https://pypi.org/project/tcpextract/
 
 
 tcpflow	1.6.1	
 Captures data transmitted as part of TCP connections then stores the data conveniently	
+https://github.com/simsong/tcpflow
 
 
 tcpreplay	4.4.2	
 Gives the ability to replay previously captured traffic in a libpcap format	
+https://tcpreplay.appneta.com/
 
 
 tcptrace	6.6.7	
 A TCP dump file analysis tool.	
+http://tcptrace.org/
 
 
 tcptraceroute	1.5beta7	
 A traceroute implementation using TCP packets.	
+https://pkgs.org/download/tcptraceroute
 
 
 tcpwatch	1.3.1	
 A utility written in Python that lets you monitor forwarded TCP connections or HTTP proxy connections.
+https://en.kali.tools/all/?tool=1409
 
 
 tgcd	1.1.1	
 TCP/IP Gender Changer Daemon utility.	
+https://tgcd.sourceforge.net/
 
 
 thc-ipv6	3.8	
 Complete tool set to attack the inherent protocol weaknesses of IPv6 and ICMP6	
+https://github.com/vanhauser-thc/thc-ipv6
 
 
 tinc	1.0.36	
 VPN (Virtual Private Network) daemon	
+https://www.tinc-vpn.org/
 
 
 torpy	60.ebf000c	
 Pure python Tor client implementation.
+https://github.com/torpyorg/torpy
 
 
 tunna	41.cba006d	
 a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.	
+https://github.com/SECFORCE/Tunna
 
 
 udpastcp	29.683b5e3	
 This program hides UDP traffic as TCP traffic in order to bypass certain firewalls.	
+https://github.com/Hello71/udpastcp
 
 
 udptunnel	19	
 Tunnels TCP over UDP packets.
+https://github.com/astroza/udptunnel
+https://manpages.ubuntu.com/manpages/xenial/man1/udptunnel.1.html
 
 
 umit	1.0	
 A powerful nmap frontend.	
+https://reposcope.com/package/umit
 
 
 uw-offish	0.1	
 Clear-text protocol simulator.	
+https://uberwall.org/bin/download/42/UW_offish.1.tar.gz
 
 
 websockify	900.7133f85	
 WebSocket to TCP proxy/bridge.	
+https://github.com/novnc/websockify
 
 
 wondershaper	48.98792b5	
 Limit the bandwidth of one or more network adapters.	
+https://github.com/magnific0/wondershaper
 
 
 xerosploit	33.2a65f3d	
 Efficient and advanced man in the middle framework.	
+https://github.com/LionSec/xerosploit
 
 
 xxeserv	12.046c559	
 A mini webserver with FTP support for XXE payloads.	
+https://github.com/staaldraad/xxeserv
 
 
 yaf	2.12.2	
 Yet Another Flowmeter.	
+https://tools.netsa.cert.org/yaf/download.html
 
 
 yersinia	0.8.2	
 A network tool designed to take advantage of some weakness in different network protocols.	
+https://www.kali.org/tools/yersinia/
 
 
 zackattack	5.1f96c14	
 A new tool set to do NTLM Authentication relaying unlike any other tool currently out there.
+https://github.com/urbanesec/ZackAttack/
 
 
 zdns	249.bfbfae2	
 Fast CLI DNS Lookup Tool.	
+https://github.com/zmap/zdns
 
 
 zeek	13053.0c2f04548	
 A powerful network analysis framework that is much different from the typical IDS you may know.	
+https://github.com/zeek/zeek
 
 
 zeek-aux	526.6defd70	
 Handy auxiliary programs related to the use of the Zeek Network Security Monitor.	
+https://github.com/zeek/zeek-aux
 
 
 zssh	1.5c	
 SSH and Telnet client with ZMODEM file transfer capability
+https://zssh.sourceforge.net/
+
+
+
+References:
+https://en.kali.tools/
+https://en.kali.tools/all/?category
+https://en.kali.tools/all/?category=networking
+https://en.kali.tools/all/?category=wireless
+https://en.kali.tools/all/?category=voip
+https://en.kali.tools/all/?category=tunnel
+https://en.kali.tools/all/?category=bluetooth
+https://en.kali.tools/all/?category=radio
+https://en.kali.tools/all/?category=scanner
